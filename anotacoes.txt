@@ -1,0 +1,20 @@
+PASTA ASSETS
+Dentro da Pasta "Assets" vai ser armazenado todos os arquivos
+necessários para o desenvolvimento do projeto, tais como, imagens,
+arquivos CSS e arquivos JS.
+
+ORGANIZAÇÃO DOS ARQUIVOS CSS:
+E aconselhável organizar seus arquivos CSS pelos temas referentes
+a construção de sua página.
+
+ARQUIVO NORMALIZE CSS
+É um arquivo resposável por resetar os estilos raíz do navegador.
+configurações padrão para as tag's HTML.
+    OBS.: O mesmo se aplica para o reset.css, usado nos cursos anteriores.
+    mas neste curso o arquivo reset.css esta sendo usado para reconfigurar
+    o navegador.
+
+ATÔMO DESIGNER
+É uma forma de estruturação de arquivos css baseados na arquitetura da 
+página (HTML), ou seja, a estilização é feita individualemnte, aplicada
+a pequenos grupos, como por exemplo, o cabeçalho da página.
